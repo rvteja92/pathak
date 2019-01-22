@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Pathak"
+theme = "tale"
+
+[Author]
+    name = "Ravi Teja P"
+    homepage = "https://rvteja92.github.io/"
