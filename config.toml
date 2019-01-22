@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Pathak"
 theme = "tale"
+publishDir = "docs"
 
 [Author]
     name = "Ravi Teja P"
